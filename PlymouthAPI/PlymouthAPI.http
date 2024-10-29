@@ -1,0 +1,6 @@
+@PlymouthAPI_HostAddress = http://localhost:5005
+
+GET {{PlymouthAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
